@@ -43,11 +43,3 @@ Output:
 ]
 ```
 
-
-
-## 🤘 Want to contribute?
-Would you like to contribute? Please, drop me an [e-mail](mailto:elias.bssn@gmail.com?subject=[GitHub]%20retriv).
-
-
-## 📄 License
-[retriv](https://github.com/AmenRa/retriv) is an open-sourced software licensed under the [MIT license](LICENSE).
